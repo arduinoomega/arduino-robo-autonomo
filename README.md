@@ -16,7 +16,7 @@ Além de pensarmos numa maneira de utilizar o mínimo possível de componentes. 
 <img src="http://portaldoarduino.com.br/wp-content/uploads/2019/03/montagem-final-1024x576.jpg" />
 
 
-## Veja o tutorial completo em <a href="http://portaldoarduino.com.br/controle-via-arduino-de-2-micros-servos-com-joystick/" target="_blank"> Portal do Arduino - Robô Autônomo Básico com Sensor Ultrassônico HC-SR04</a>
+## Veja o tutorial completo em <a href="http://portaldoarduino.com.br/robo-autonomo-ba…assonico-hc-sr04/" target="_blank"> Portal do Arduino - Robô Autônomo Básico com Sensor Ultrassônico HC-SR04</a>
 
 ### Tutorial por Alex da Rocha Mattos do <a href="https://www.instagram.com/curtoecircuito/"> Curto e Circuito</a>.
 
