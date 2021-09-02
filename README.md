@@ -19,5 +19,5 @@ Além de pensarmos numa maneira de utilizar o mínimo possível de componentes. 
 ## Veja o tutorial completo em <a href="http://portaldoarduino.com.br/robo-autonomo-basico-com-sensor-ultrassonico-hc-sr04/" target="_blank"> Portal do Arduino - Robô Autônomo Básico com Arduino Nano e Sensor Ultrassônico HC-SR04</a>
 
 ### Tutorial por Alex da Rocha Mattos do <a href="https://www.instagram.com/curtoecircuito/"> Curto e Circuito</a>.
-### curtoeckt@gmail.comcurtoeckt@gmail.com
+### curtoeckt@gmail.com
 
